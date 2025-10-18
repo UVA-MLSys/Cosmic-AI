@@ -1,0 +1,3 @@
+[submodule "AI-for-Astronomy"]
+	path = AI-for-Astronomy
+	url = https://github.com/UVA-MLSys/AI-for-Astronomy
