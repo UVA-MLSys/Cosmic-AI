@@ -1,3 +1,9 @@
 [submodule "AI-for-Astronomy"]
 	path = AI-for-Astronomy
 	url = https://github.com/UVA-MLSys/AI-for-Astronomy
+[submodule "IC_pixel-diffusion"]
+	path = IC_pixel-diffusion
+	url = https://github.com/UVA-MLSys/IC_pixel-diffusion
+[submodule "OmniSpectra"]
+	path = OmniSpectra
+	url = https://github.com/UVA-MLSys/OmniSpectra
