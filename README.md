@@ -1,6 +1,13 @@
 # Cosmic-AI
 
-AI enhanced solutions for cosmology and astronomy. Following are the current research projects:
+<div align="center" style="overflow-x:auto;">
+
+<img src='./logos/AI Institutes_News Release_logos-top.jpg' width='80%'/>
+</div>
+
+AI enhanced solutions for cosmology and astronomy. This work is supported by **NSF-Simons AI Institute for Cosmic Origins**. For more details please visit [cosmicai.org](https://cosmicai.org/) and [NSF News article](https://www.nsf.gov/news/nsf-simons-foundation-launch-2-ai-institutes-help).
+
+Following are the current ongoing research projects:
 
 ## [CAI - Scalable Foundation Model Inference on Cloud](https://arxiv.org/pdf/2501.06249?)
 
@@ -27,12 +34,3 @@ The first foundation model to process variable lengths of spectra from arbitrary
 ## IC-pixel Diffusion
 
 Pixel-based diffusion model for reconstructing cosmological initial conditions from observable data.
-
-## Acknowledements
-
-This work is supported by **NSF-Simons AI Institute for Cosmic Origins**. For more details please visit [cosmicai.org](https://cosmicai.org/) and [NSF News article](https://www.nsf.gov/news/nsf-simons-foundation-launch-2-ai-institutes-help).
-
-<div align="center" style="overflow-x:auto;">
-
-<img src='./logos/AI Institutes_News Release_logos-top.jpg' width='80%'/>
-</div>
