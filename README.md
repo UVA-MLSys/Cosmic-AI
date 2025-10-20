@@ -21,7 +21,7 @@ The first foundation model to process variable lengths of spectra from arbitrary
 
 ### Fig: OmniSpectra Model Architecture.
 
-<img src='./logos/OmniSpectra.jpg' width='80%'/>
+<img src='./logos/omnispectra.jpg' width='80%'/>
 </div>
 
 ## IC-pixel Diffusion
