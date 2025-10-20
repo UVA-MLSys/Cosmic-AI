@@ -10,7 +10,7 @@ A novel **Cloud-based Astronomy Inference (CAI)** framework for data parallel AI
 
 ### Fig: CAI framework design on AWS State Machine.
 
-<img src='./AI-for-Astronomy/aws/figures/cai workflow.jpg' width='50%'/>
+<img src='./logos/cai workflow.jpg' width='50%'/>
 </div>
 
 ## OmniSpectra: A Unified Foundation Model for Native Resolution Astronomical Spectra
@@ -21,7 +21,7 @@ The first foundation model to process variable lengths of spectra from arbitrary
 
 ### Fig: OmniSpectra Model Architecture.
 
-<img src='./OmniSpectra/figures/architecture.jpg' width='80%'/>
+<img src='./logos/OmniSpectra.jpg' width='80%'/>
 </div>
 
 ## IC-pixel Diffusion
