@@ -4,6 +4,7 @@
 [submodule "IC_pixel-diffusion"]
 	path = IC_pixel-diffusion
 	url = https://github.com/UVA-MLSys/IC_pixel-diffusion
+	branch = main
 [submodule "OmniSpectra"]
 	path = OmniSpectra
 	url = https://github.com/UVA-MLSys/OmniSpectra
